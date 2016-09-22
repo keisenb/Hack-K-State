@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=C8:5D:77:7A:EC:84:74:47:11:40:4C:86:16:2A:30:7B:4C:AB:FA:9C%3Bchimeraandroid.chimeraandroid
+
+    You can also add your credentials to an existing key, using this line:
+    C8:5D:77:7A:EC:84:74:47:11:40:4C:86:16:2A:30:7B:4C:AB:FA:9C;chimeraandroid.chimeraandroid
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAoXg-g1WyudahEbQc_zJW9grG4viuMN3k</string>
+</resources>

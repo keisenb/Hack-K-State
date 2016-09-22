@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="23" pc="268435467" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="26" pc="268435467" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="27" pc="268435503" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="28" pc="268435515" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="29" pc="268435551" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="30" pc="268435564" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="31" pc="268435610" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="32" pc="268435688" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="33" pc="268435734" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="34" pc="268435812" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="35" pc="268435843" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="36" pc="268435915" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="37" pc="268435946" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="38" pc="268436024" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="39" pc="268436055" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="42" pc="268436136" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="47" pc="268436214" symbol="setPosition"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headView.mc" lineNum="48" pc="268436224" symbol="setPosition"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headMenuDelegate.mc" lineNum="8" pc="268436244" symbol="initialize"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headMenuDelegate.mc" lineNum="12" pc="268436265" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headMenuDelegate.mc" lineNum="13" pc="268436276" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headMenuDelegate.mc" lineNum="16" pc="268436311" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headDelegate.mc" lineNum="6" pc="268436338" symbol="initialize"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headDelegate.mc" lineNum="10" pc="268436359" symbol="onMenu"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headDelegate.mc" lineNum="11" pc="268436443" symbol="onMenu"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headApp.mc" lineNum="11" pc="268436449" symbol="onStart"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headApp.mc" lineNum="16" pc="268436496" symbol="onStop"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headApp.mc" lineNum="20" pc="268436543" symbol="onPosition"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headApp.mc" lineNum="25" pc="268436566" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Kyle\\OneDrive\\KSU\\Programming Files\\Monkey C\\Hack KSU\\chimera\\smart_watch\\source\\chimera_headApp.mc" lineNum="26" pc="268436596" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="16" pc="268436623" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268436641" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268436693" symbol="initialize"/>
+<entry filename="Rez" lineNum="35" pc="268436748" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268436762" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268436902" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268436917" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268436969" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268437057" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="41" pc="268437109" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="22" symbol="posnInfo"/>
+<entry field="true" id="19" symbol="menu_label_2"/>
+<entry field="true" id="18" symbol="menu_label_1"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry field="true" id="21" symbol="AppName"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388642" module="true" symbol="Position"/>
+<entry id="8389347" symbol="color"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry id="27" symbol="item_2"/>
+<entry id="26" symbol="item_1"/>
+<entry id="16" object="true" symbol="MainMenu"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8" object="true" symbol="chimera_headView"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="24" symbol="positionView"/>
+<entry id="23" method="true" symbol="setPosition"/>
+<entry id="11" object="true" symbol="chimera_headApp"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="10" object="true" symbol="chimera_headDelegate"/>
+<entry id="17" method="true" symbol="MainLayout"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="25" method="true" symbol="onPosition"/>
+<entry field="true" id="20" symbol="prompt"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="14" symbol="id_monkey"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389346" symbol="text"/>
+<entry id="9" object="true" symbol="chimera_headMenuDelegate"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436211" name="string" stackId="2" startPc="268435467"/>
+<entry endPc="268437136" name="rez_cmp_local_label_W2AIGA7RFA" stackId="3" startPc="268436748"/>
+<entry endPc="268437136" name="rez_cmp_local_label_W2AIGA7RFA_font" stackId="2" startPc="268436748"/>
+<entry endPc="268437136" name="rez_cmp_local_bitmap_id_monkey" stackId="5" startPc="268436748"/>
+<entry endPc="268437136" name="rez_cmp_local_label_W2AIGA7RFA_fontHeight" stackId="4" startPc="268436748"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="onLayout" parent="chimera_headView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="chimera_headView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="chimera_headView">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="chimera_headView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="setPosition" parent="chimera_headView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="chimera_headMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="chimera_headMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="chimera_headDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="chimera_headDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="chimera_headApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="chimera_headApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onPosition" parent="chimera_headApp">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="chimera_headApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
